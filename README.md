@@ -11,6 +11,7 @@
 
 # CLOSED SOURCE
 
+- https://perma.bio/ — flat-price link-in-bio (Evergreen $18/yr, Pro $39/yr, 0% platform fees)
 
 - https://linktr.ee/
 - https://biosites.com/
